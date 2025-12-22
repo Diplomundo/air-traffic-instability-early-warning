@@ -24,7 +24,7 @@
 ---
 
 ## Данные
-Источник: OpenSky Network [API](https://opensky-network.org/). 
+Источник: OpenSky Network [API](https://opensky-network.org/data/api). 
 
 Первичная выборка: ограниченный период (примерно 1–2 недели) и один регион (для управляемого масштаба).  
 
