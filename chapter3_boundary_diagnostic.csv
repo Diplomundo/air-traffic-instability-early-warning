@@ -1,0 +1,7 @@
+metric,value,description
+overall_pct_finite_last_n,77.9,Доля last-N точек с finite derivatives (smoking gun)
+mean_p99_ratio,0.916,P99 |derivative| last-N / interior (avg across phases × metrics)
+mean_dq_capture_pct,0.092,Доля last-N flagged как dq_derivative_bad
+asymmetry_at_5s,161.79,Events end:start ratio при пороге 5s
+asymmetry_at_10s,2.97,Events end:start ratio при пороге 10s
+n_top_100_at_flight_end_10s,17.0,Из top-100 events заканчивается в last 10s рейса

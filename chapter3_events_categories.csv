@@ -1,0 +1,5 @@
+category,count,pct_total,median_duration_sec,median_ensemble_max,median_risk_max,median_dq_hard_share,median_dq_soft_share,median_feature_quality_share
+potential_operational_anomaly,22779,87.33,17.0,0.9889,0.9977,0.0,0.0,0.0
+mixed_or_derived_dynamics,2205,8.45,12.0,0.9957,0.9993,0.0,0.8571,0.0
+likely_data_quality_artifact,823,3.16,18.0,0.9954,0.9993,0.9091,0.0962,0.0
+likely_feature_phase_artifact,276,1.06,17.0,0.9993,0.9999,0.0,0.6,0.4118

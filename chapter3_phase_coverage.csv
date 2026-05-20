@@ -1,0 +1,9 @@
+phase_code,phase_name,n_points,if_coverage_pct,hdb_coverage_pct,lstm_coverage_pct
+0,ground,142551,100.0,89.86,31.25
+1,takeoff,165456,100.0,15.05,84.94
+2,climb,11850752,100.0,96.77,99.6
+3,cruise,31961435,100.0,99.47,99.67
+4,descent,11036050,100.0,99.59,99.61
+5,approach,6554313,100.0,99.19,98.68
+6,landing,868204,100.0,93.7,84.55
+999,ALL,62578761,100.0,98.63,99.14

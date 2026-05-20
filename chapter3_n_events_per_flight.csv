@@ -1,0 +1,4 @@
+subset,n_flights_total,n_flights_with_events,n_flights_without_events,pct_with_events,median_all,median_positive,p90_positive,p95_positive,p99_positive,max
+all,12558,8420,4138,67.05,1.0,2.0,6.0,8.0,14.0,37
+calibration_val,4307,2775,1532,64.43,1.0,2.0,6.0,8.0,13.26,37
+test,8251,5645,2606,68.42,1.0,2.0,6.0,8.8,14.0,37

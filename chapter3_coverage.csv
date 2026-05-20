@@ -1,0 +1,4 @@
+model,total_coverage_fraction,total_coverage_pct
+IF,1.0,100.0
+HDBSCAN,0.9863,98.63
+LSTM-AE,0.9914,99.14

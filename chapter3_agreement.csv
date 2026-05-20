@@ -1,0 +1,4 @@
+pair,n_points,pearson,spearman_sample,spearman_sample_n,jaccard_top_1pct
+if_vs_hdb,20686594,0.4688,0.469,500000,0.0766
+if_vs_lstm,20686594,0.3732,0.3715,500000,0.0635
+hdb_vs_lstm,20686594,0.4435,0.4522,500000,0.107
